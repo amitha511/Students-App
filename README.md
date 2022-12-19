@@ -15,4 +15,4 @@ Each student has a check box indicating the status of the student.<br>
 - Status of the student - pressing the check button will change the check status of that student.
 
 <p align = "center">
-    <img src = https://github.com/amitha511/Students-App/blob/main/studentsapp.gif width="350" height="500" />
+    <img src = https://github.com/amitha511/Students-App/blob/main/studentsapp.gif width="350" height="550" />
