@@ -16,4 +16,4 @@ status of that student.
 - Delete student - delete a student from the database.
 
 <p align = "center">
-    <img src = https://github.com/amitha511/ticTacToe_android_app/blob/main/studentsapp.gif width="300" height="400" />
+    <img src = https://github.com/amitha511/Students-App/blob/main/studentsapp.gif width="300" height="400" />
