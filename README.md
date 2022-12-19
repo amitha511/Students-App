@@ -4,8 +4,6 @@
 
 The app contains a list of students with their details and photo.
 Each student has a check box indicating the status of the student.<br>
-pressing the check button will change the check
-status of that student.
 
 # Features:
 
@@ -14,6 +12,7 @@ status of that student.
 - Edit student - update a student in the database.
 
 - Delete student - delete a student from the database.
+- status of the student - pressing the check button will change the check status of that student.
 
 <p align = "center">
-    <img src = https://github.com/amitha511/Students-App/blob/main/studentsapp.gif width="300" height="400" />
+    <img src = https://github.com/amitha511/Students-App/blob/main/studentsapp.gif width="300" height="600" />
